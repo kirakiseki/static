@@ -1,1 +1,1 @@
-# blog-res
+Ishirai-Resources
