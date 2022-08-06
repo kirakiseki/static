@@ -1,1 +1,1 @@
-Ishirai-Resources
+A repo to store static files.
